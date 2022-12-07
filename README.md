@@ -10,7 +10,7 @@
 <!-- <p align="center">
 <a href="https://www.buymeacoffee.com/zed0" target="_blank"><img style="width:125px;height:125px;border-radius:25px" src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 </p> -->
-
+<p align="center"><img src="https://komarev.com/ghpvc/?username=UmairMukhtar&style=flat-square&color=blue" alt=""></p>
 <h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
@@ -58,7 +58,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### ✍️ Blog Posts : 
-- [How to Change Microsoft AD Password Using Python]([https://www.twilio.com/blog/create-rest-apis-java-spring-boot](https://aenumair.medium.com/changing-microsoft-ad-user-password-using-python-bd7a2c4c4b11))
+- [How to Change Microsoft AD Password Using Python](https://aenumair.medium.com/changing-microsoft-ad-user-password-using-python-bd7a2c4c4b11)
 - [Why i love to work with firebase?](https://aenumair.medium.com/why-i-love-to-work-with-firebase-c584da3ce5c8)
 - [How to make Photo Grid like facebook using android studio](https://aenumair.medium.com/how-to-make-photo-grid-like-facebook-using-react-js-8792cc3c5263)<!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
