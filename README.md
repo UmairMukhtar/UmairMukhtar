@@ -1,16 +1,15 @@
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
 <p align="center">
 <a href="https://pk.linkedin.com/in/umair-mukhtar-828510153"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+  <a href="https://www.facebook.com/AenUmair"><img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"></a>
+</p>
+<p align="center">
+<a href="https://play.google.com/store/apps/details?id=com.aenstudios.cuteboyshooter"><img src="https://play-lh.googleusercontent.com/5Xjy4j27M_UeGb3wxaRbAx1pKaFW7GONa-rsrNaY5FrlZoaDOZViOysUI-BMAy_8iw=w240-h480-rw" alt="Cute Boy Shooter"></a>
+  <a href="https://play.google.com/store/apps/details?id=com.aenstudios.redgreensquid"><img src="https://play-lh.googleusercontent.com/SubZzJdZ32xkHocsqhBuCpgjdnNnBTv2jBcQ_MZYEjP3aTV2NMWwTJO6iMRAtuiAgut_=w240-h480-rw" alt="Red Green Squid"></a>
 </p>
 <!-- <p align="center">
-<a href="https://www.buymeacoffee.com/zed0" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+<a href="https://www.buymeacoffee.com/zed0" target="_blank"><img style="width:125px;height:125px;border-radius:25px" src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 </p> -->
-<div style="display:flex;align-items:center;justify-content:center">
-  <p align="center"><img src="https://komarev.com/ghpvc/?username=UmairMukhtar&style=flat-square&color=blue" alt=""></p>
-  <p align="center"><img src="https://komarev.com/ghpvc/?username=UmairMukhtar&style=flat-square&color=blue" alt=""></p>
-  <p align="center"><img src="https://komarev.com/ghpvc/?username=UmairMukhtar&style=flat-square&color=blue" alt=""></p>
-</div>
-
 
 <h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
@@ -18,7 +17,7 @@
 
 ### :woman_technologist: &nbsp;About Me :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan.
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan and Founder of Aen Studios where we develope android mobile games.
 
 - 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 - 🌱 Exploring Technical Content Writing.
