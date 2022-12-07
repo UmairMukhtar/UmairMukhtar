@@ -19,6 +19,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - 🌱 Exploring Technical Content Writing.
 - ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-UmairMukhtar-blue?style=flat&logo=Linkedin&logoColor=white)](https://pk.linkedin.com/in/umair-mukhtar-828510153)
+- 📫 My Facebook Page: &nbsp; [![Facebook Badge](https://img.shields.io/badge/-UmairMukhtar-blue?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/AenUmair)
 
 ---
 
