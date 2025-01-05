@@ -11,7 +11,7 @@
 <a href="https://www.buymeacoffee.com/zed0" target="_blank"><img style="width:125px;height:125px;border-radius:25px" src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 </p> -->
 <p align="center"><img src="https://komarev.com/ghpvc/?username=UmairMukhtar&style=flat-square&color=blue" alt=""></p>
-<h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+<h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
@@ -19,8 +19,9 @@
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan and Founder of Aen Studios where we develope android mobile games.
 
-- 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-- 🌱 Exploring Technical Content Writing.
+- 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications. I spend my free time
+- 🌱 Doing Linkedin Certifications to increase my knowledge
+- 🌱 Writing tech articles to give back the society.
 - ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-UmairMukhtar-blue?style=flat&logo=Linkedin&logoColor=white)](https://pk.linkedin.com/in/umair-mukhtar-828510153)
 - 📫 My Facebook Page: &nbsp; [![Facebook Badge](https://img.shields.io/badge/-UmairMukhtar-blue?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/AenUmair)
