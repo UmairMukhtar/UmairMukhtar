@@ -54,6 +54,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### 🔥 &nbsp; My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=UmairMukhtar&theme=dark&background=000000)](https://git.io/streak-stats)
 
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=UmairMukhtar&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Umair's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmairMukhtar&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UmairMukhtar&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
